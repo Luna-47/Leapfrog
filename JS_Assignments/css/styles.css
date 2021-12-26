@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#images{
+    width:800px;
+    height:200px;
+    position: relative;
+    /* transition: 500ms;*/
+}
+
+#wrapper{
+    margin:20px;
+    width:200px;
+    overflow: hidden;
+}
+
+img{
+    position: absolute;
+    width:200px;
+    height:160px;
+    top:0px;
+}
